@@ -58,6 +58,18 @@ body, li, span, p {
 
 a {
   background-color: transparent;
+  text-decoration:none
+}
+
+a.proj-item:link {color:#5a79ba;}
+a.proj-item:visited {color:#5a79ba;}
+a.proj-item:hover {font-size:125%;}
+
+a.copyrfooter:link {color:#f19072;}
+a.copyrfooter:visited {color:#f19072;}
+
+.copyrfooter{
+  color:#93b881;
 }
 
 strong {
