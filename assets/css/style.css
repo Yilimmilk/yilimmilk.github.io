@@ -53,23 +53,35 @@ hr {
   overflow: visible;
 }
 
-body, li, span, p {
-}
+body, li, span, p {}
 
 a {
   background-color: transparent;
-  text-decoration:none
+  text-decoration: none
 }
 
-a.proj-item:link {color:#5a79ba;}
-a.proj-item:visited {color:#5a79ba;}
-a.proj-item:hover {font-size:125%;}
+a.proj-item:link {
+  color: #5a79ba;
+}
 
-a.copyrfooter:link {color:#f19072;}
-a.copyrfooter:visited {color:#f19072;}
+a.proj-item:visited {
+  color: #5a79ba;
+}
 
-.copyrfooter{
-  color:#93b881;
+a.proj-item:hover {
+  font-size: 125%;
+}
+
+a.copyrfooter:link {
+  color: #f19072;
+}
+
+a.copyrfooter:visited {
+  color: #f19072;
+}
+
+.copyrfooter {
+  color: #93b881;
 }
 
 strong {
@@ -382,4 +394,39 @@ aside_content .card-info .author-info__description {
 
 ::-webkit-scrollbar-track {
   background-color: transparent
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #474a4d;
+    color: #e4e4e4;
+  }
+
+  h2 {
+    color: #68be8d;
+  }
+
+  div {
+    color: #e39777;
+  }
+
+  img {
+    filter: grayscale(30%);
+  }
+
+  .card-content {
+    background: #524e4d;
+  }
+
+  .skillbar {
+    background-color: #43676b;
+  }
+
+  #text-iconfont {
+    color: #68be8d;
+  }
+
+  #page {
+    background: #524e4d;
+  }
 }
