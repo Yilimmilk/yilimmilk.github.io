@@ -15,7 +15,7 @@
     :root {
       --blue: #0e0620;
       --white: #fff;
-      --green: #2ccf6d;
+      --blue_ts: #2EA9DF;
     }
 
     html,
@@ -119,7 +119,7 @@
       height: 100%;
       top: 0;
       left: 0;
-      background: var(--green);
+      background: var(--blue_ts);
       color: var(--blue);
       width: 300px;
       z-index: 1;
@@ -207,7 +207,7 @@
     }
 
     .btn.green {
-      border: 4px solid var(--green);
+      border: 4px solid var(--blue_ts);
       color: var(--blue);
     }
 
@@ -218,7 +218,7 @@
       top: 0;
       width: 0%;
       height: 100%;
-      background: var(--green);
+      background: var(--blue_ts);
       z-index: -1;
       -webkit-transition: 0.2s ease;
       transition: 0.2s ease;
@@ -226,7 +226,7 @@
 
     .btn.green:hover {
       color: var(--white);
-      background: var(--green);
+      background: var(--blue_ts);
       -webkit-transition: 0.2s ease;
       transition: 0.2s ease;
     }
@@ -245,6 +245,15 @@
         margin-bottom: 70px;
       }
     }
+
+    @media (prefers-color-scheme: dark) {
+      body {
+        background: #4E4F97;
+        color: white;
+      }
+    }
+
+    @media (prefers-color-scheme: light) {}
   </style>
 
 </head>
