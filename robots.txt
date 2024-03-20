@@ -1,4 +1,0 @@
-Crawl-delay: 120
-Disallow: /assets/
-Disallow: /img/
-Disallow: /resume/

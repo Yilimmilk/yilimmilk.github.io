@@ -1,0 +1,71 @@
+{
+    "commons": {
+        "mapotofu": "麻婆豆腐",
+        "slogan": "山高路迢迢 我遙望世界 亦尋找自我",
+        "aboutMe": "關於我",
+        "projects": "項目",
+        "blog": "部落格",
+        "cloud": "雲端硬碟",
+        "gpt": "GPT",
+        "goHome": "返回主頁",
+        "waitRedirect": "正在跳轉，請稍等...",
+        "technologyStack": "技術棧"
+    },
+    "errors": {
+        "404": "唔好意思，搵唔到你要寻找嘅页面。"
+    },
+    "welcome": {
+        "intro": "簡介",
+        "hiThere": "呢度係豆腐，亦都可以叫我伊利（名字諧音）哈",
+        "locate": "坐標武漢",
+        "status": "大學生",
+        "sex": "男",
+        "content1": "係一個獨立開發者，前端後端都識啲皮毛，嵌入式程式都識搞下下，有時鍾意自己DIY啲電路板玩玩。",
+        "content2": "羽毛球、騎行、旅遊、唱歌...呢啲都係我嘅愛好～"
+    },
+    "skills": {
+        "badminton": "羽毛球",
+        "cpp": "C/C++",
+        "java": "Java",
+        "android": "Android",
+        "kotlin": "Kotlin",
+        "jetpackCompose": "Jetpack Compose",
+        "python": "Python",
+        "javascript": "JavaScript",
+        "typescript": "TypeScript",
+        "vuejs": "Vue JS",
+        "cybersecurity": "網路安全",
+        "git": "Git",
+        "linux": "Linux",
+        "docker": "Docker",
+        "cycling": "騎行",
+        "music": "音樂",
+        "personality": "INFP",
+        "travel": "旅行",
+        "embedded": "嵌入式開發",
+        "fastapi": "FastAPI",
+        "weixinMiniProgram": "微信小程式",
+        "redis": "Redis",
+        "postgresql": "PostgreSQL",
+        "rabbitmq": "RabbitMQ",
+        "nginx": "Nginx",
+        "crawler": "網絡爬蟲（BeautifulSoup4 + PyQuery）",
+        "spring": "Spring",
+        "springBoot": "Spring Boot",
+        "springCloud": "Spring Cloud",
+        "myBatisPlus": "MyBatis Plus",
+        "nacos": "NacOS",
+        "mysql": "MySQL",
+        "distributed": "分佈式"
+    },
+    "projects": {
+        "leShouYi": {
+            "name": "乐首义",
+            "desc": "呢个項目係一款以武昌首義學院校園作為場景設計嘅微信小程序，旨在為學院師生提供方便嘅信息服務。通過集成咗課程表查詢、成績查詢同圖書借閱等功能，呢個小程序成為咗校園內獲取信息嘅重要工具。呢個項目由我獨立完成所有開發工作，憑住佢嘅全面同高效嘅服務，目前已經擁有大約21,000名用戶，並以大約10,000嘅日活躍用戶量，成為咗校園內最大嘅綜合信息查詢平台。"
+        },
+        "onlineJudge": {
+            "name": "線上評測系統",
+            "desc": "呢个項目係採用前後端分離、分佈式架構設計嘅在線評估系統，基於開源項目 [Github:HOJ{'@'}HimitZH] 進行深度定制同二次開發。系統已經部署喺校園內網服務器，專為滿足學院獨特需求而設計。我喺呢個項目中負責二次開發同部署運維工作。包括針對校園系統架構嘅專項優化，重點改進咗數據庫結構、認證系統、路由策略，以及分佈式判題機嘅調度機制。此外，我仲負責優化相應嘅前端頁面，以提高用戶互動體驗同系統整體性能。通過精細化管理同技術創新，呢個項目唔單止大大提升咗校園在線評估嘅效率同準確性，亦為學院嘅教學同評估體系貢獻咗重要嘅技術支持。"
+        }
+    }
+}

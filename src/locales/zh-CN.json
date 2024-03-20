@@ -1,0 +1,71 @@
+{
+    "commons": {
+        "mapotofu": "麻婆豆腐",
+        "slogan": "山高路远 我看世界 也找自己",
+        "aboutMe": "关于我",
+        "projects": "项目",
+        "blog": "博客",
+        "cloud": "云盘",
+        "gpt": "GPT",
+        "goHome": "返回主页",
+        "waitRedirect": "正在跳转，请稍候...",
+        "technologyStack": "技术栈"
+    },
+    "errors": {
+        "404": "很抱歉，找不到您要查找的页面。"
+    },
+    "welcome": {
+        "intro": "简介",
+        "hiThere": "这里是豆腐，也可以喊我伊利（名字谐音）哈",
+        "locate": "坐标武汉",
+        "status": "大学生",
+        "sex": "男",
+        "content1": "一名独立开发者，前端后端都略知一二，嵌入式也会一点点，有时候喜欢自己画一点板子玩玩。",
+        "content2": "羽毛球、骑行、旅游、唱歌...这些都是我的爱好～"
+    },
+    "skills": {
+        "badminton": "羽毛球",
+        "cpp": "C/C++",
+        "java": "Java",
+        "android": "Android",
+        "kotlin": "Kotlin",
+        "jetpackCompose": "Jetpack Compose",
+        "python": "Python",
+        "javascript": "JavaScript",
+        "typescript": "TypeScript",
+        "vuejs": "Vue JS",
+        "cybersecurity": "网络安全",
+        "git": "Git",
+        "linux": "Linux",
+        "docker": "Docker",
+        "cycling": "骑行",
+        "music": "音乐",
+        "personality": "INFP",
+        "travel": "旅行",
+        "embedded": "嵌入式开发",
+        "fastapi": "FastAPI",
+        "weixinMiniProgram": "微信小程序",
+        "redis": "Redis",
+        "postgresql": "PostgreSQL",
+        "rabbitmq": "RabbitMQ",
+        "nginx": "Nginx",
+        "crawler": "网络爬虫（BeautifulSoup4 + PyQuery）",
+        "spring": "Spring",
+        "springBoot": "Spring Boot",
+        "springCloud": "Spring Cloud",
+        "myBatisPlus": "MyBatis Plus",
+        "nacos": "NacOS",
+        "mysql": "MySQL",
+        "distributed": "分布式"
+    },
+    "projects": {
+        "leShouYi": {
+            "name": "乐首义",
+            "desc": "本项目是一款以武昌首义学院校园为场景设计的微信小程序，旨在为学院师生提供便捷的信息服务。通过集成课程表查询、成绩查询以及图书借阅等功能，本小程序成为了校园内信息获取的重要工具。本项目由我独立完成所有开发工作，凭借其全面而高效的服务，目前已拥有约21,000名用户，并以约10,000的日活跃用户量，成为校园内最大的综合信息查询平台。"
+        },
+        "onlineJudge": {
+            "name": "在线评测系统",
+            "desc": "本项目是一个采用前后端分离、分布式架构设计的在线测评系统，基于开源项目 [Github:HOJ{'@'}HimitZH] 进行深度定制与二次开发。该系统已部署于校园内网服务器，专为满足学院独特需求而设计。我在该项目中负责二次开发和部署运维工作。这包括针对校园系统架构的专项优化，重点改进了数据库结构、认证系统、路由策略，以及分布式判题机的调度机制。此外，我还负责优化对应的前端页面，以提高用户交互体验和系统整体性能。通过精细化管理和技术革新，本项目不仅极大地提升了校园在线测评的效率和准确性，也为学院的教学与评估体系贡献了重要的技术支持。"
+        }
+    }
+}

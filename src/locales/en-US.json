@@ -1,0 +1,71 @@
+{
+    "commons": {
+        "mapotofu": "MapoTofu",
+        "slogan": "Amid towering mountains and distant roads, I seek the world and myself.",
+        "aboutMe": "About Me",
+        "projects": "Projects",
+        "blog": "Blog",
+        "cloud": "Cloud Storage",
+        "gpt": "GPT",
+        "goHome": "Go Home",
+        "waitRedirect": "Redirecting, please wait...",
+        "technologyStack": "Technology Stack"
+    },
+    "errors": {
+        "404": "Sorry, the page you are looking for could not be found."
+    },
+    "welcome": {
+        "intro": "Profile",
+        "hiThere": "This is Tofu, you can also call me Eli (a play on the name's sound) ha",
+        "locate": "Located in Wuhan (China)",
+        "status": "Undergraduate",
+        "sex": "Male",
+        "content1": "An independent developer, knowledgeable in both front-end and back-end, also a bit into embedded systems, sometimes I like to design some boards for fun.",
+        "content2": "Badminton, cycling, traveling, singing... these are my hobbies～"
+    },
+    "skills": {
+        "badminton": "Badminton",
+        "cpp": "C/C++",
+        "java": "Java",
+        "android": "Android",
+        "kotlin": "Kotlin",
+        "jetpackCompose": "Jetpack Compose",
+        "python": "Python",
+        "javascript": "JavaScript",
+        "typescript": "TypeScript",
+        "vuejs": "Vue JS",
+        "cybersecurity": "Cyber Security",
+        "git": "Git",
+        "linux": "Linux",
+        "docker": "Docker",
+        "cycling": "Cycling",
+        "music": "Music",
+        "personality": "INFP",
+        "travel": "Traveling",
+        "embedded": "Embedded development",
+        "fastapi": "FastAPI",
+        "weixinMiniProgram": "WeChat Mini Program",
+        "redis": "Redis",
+        "postgresql": "PostgreSQL",
+        "rabbitmq": "RabbitMQ",
+        "nginx": "Nginx",
+        "crawler": "Crawler(BeautifulSoup4 + PyQuery)",
+        "spring": "Spring",
+        "springBoot": "Spring Boot",
+        "springCloud": "Spring Cloud",
+        "myBatisPlus": "MyBatis Plus",
+        "nacos": "NacOS",
+        "mysql": "MySQL",
+        "distributed": "Distributed"
+    },
+    "projects": {
+        "leShouYi": {
+            "name": "LeShouYi",
+            "desc": "This project is a WeChat Mini Program designed with the campus of Wuchang ShouYi University as its setting, aimed at providing convenient information services for the college's faculty and students. Integrating functions such as timetable inquiries, grade inquiries, and book borrowing, this Mini Program has become an important tool for information retrieval within the campus. I independently completed all development work for this project. Thanks to its comprehensive and efficient services, it currently boasts about 21,000 users and, with approximately 10,000 daily active users, it has become the largest comprehensive information inquiry platform within the campus."
+        },
+        "onlineJudge": {
+            "name": "Online Judge System",
+            "desc": "This project is an online judge system designed with a front-end and back-end separation and distributed architecture, based on in-depth customization and secondary development of the open-source project [Github:HOJ{'@'}HimitZH]. The system has been deployed on the campus intranet server, specifically designed to meet the unique needs of the college. I was responsible for the secondary development and deployment operation and maintenance work within this project. This includes targeted optimization for the campus system architecture, with a focus on improvements to the database structure, authentication system, routing strategy, and the scheduling mechanism for the distributed judging machines. Additionally, I was in charge of optimizing the corresponding front-end pages to enhance user interaction experience and overall system performance. Through meticulous management and technological innovation, this project has significantly enhanced the efficiency and accuracy of campus online assessments, also providing substantial technical support to the college's teaching and assessment system."
+        }
+    }
+}
